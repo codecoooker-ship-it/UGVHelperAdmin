@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "397453030545",
+    "project_id": "ugv-helper",
+    "storage_bucket": "ugv-helper.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397453030545:android:d56acdbc86b1688a8cbb30",
+        "android_client_info": {
+          "package_name": "com.example.ugvadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvlem1oHSTsBmw0taBIew74PUsc4UYBvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397453030545:android:c02914188fec4ba88cbb30",
+        "android_client_info": {
+          "package_name": "com.example.ugvhelper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvlem1oHSTsBmw0taBIew74PUsc4UYBvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397453030545:android:bf6006fd07fd2ed48cbb30",
+        "android_client_info": {
+          "package_name": "com.example.ugvhelperadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvlem1oHSTsBmw0taBIew74PUsc4UYBvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

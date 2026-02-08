@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp">
+
+    <EditText
+        android:id="@+id/edtTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Title (e.g. UGV → Campus)"/>
+
+    <EditText
+        android:id="@+id/edtFrom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="From"/>
+
+    <EditText
+        android:id="@+id/edtTo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="To"/>
+
+    <EditText
+        android:id="@+id/edtTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Time (e.g. 07:30 AM)"/>
+
+    <EditText
+        android:id="@+id/edtMinutes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Time Minutes (e.g. 450)"
+        android:inputType="number"/>
+
+    <EditText
+        android:id="@+id/edtNote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Note (optional)"/>
+</LinearLayout>
